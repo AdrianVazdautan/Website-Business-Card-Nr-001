@@ -2,6 +2,12 @@
 .bgr{background-color: red}
 .bgb{background-color: blue}
 .bgw{background-color: white}
+.bgdb{background-color: dodgerblue;}
+.hi{height: inherit;}
+.p{position: relative;}
+.l{float: left;}
+.dg{display: grid}
+.jcc{justify-items: center}
 
 .root{
 
@@ -9,6 +15,10 @@
 
 .b1{
 	height: 5px;
+}
+
+.b1_001{
+	width: 400px;
 }
 
 .b2{
